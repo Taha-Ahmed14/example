@@ -10,7 +10,7 @@ public static void main(String[] args) {
 		int[] array = getArray();
 
 		
-		System.out.print("Enter the index of  array: ");
+		System.out.print("Enter the index : ");
 		try {
 			
 			System.out.println("The corresponding element  is " + 
